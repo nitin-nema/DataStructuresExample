@@ -1,0 +1,3 @@
+Hello, world!
+This is a sample input file for demonstrating file I/O in Java.
+Enjoy learning Java!
